@@ -67,7 +67,8 @@ body {
     list-style-type: none;
     font-size: 11px;
     font-weight: bolder;
-    justify-content: right;
+    justify-content: left;
+    text-align: left;
 }
 
 .navsection li {
